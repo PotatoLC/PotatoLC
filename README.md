@@ -1,6 +1,7 @@
 
 #  About me: 😎💭 
 
+
 ## Jamming to the Beats and Karate Kicks! 🥋👊🏼🤛🎧
 Passionate about music and a sports enthusiast, I have been dedicated to karate training for several years. Moreover, my love for technology 
 has led me to immerse myself in the world of programming. With experience in Java, C, and Python, and some knowledge of HTML and CSS, I have 
@@ -17,3 +18,5 @@ In summary, I consider myself a versatile individual with a profound love for mu
 new challenges and continue growing in the fascinating realms of programming and cybersecurity."
 
 ## :es: 
+
+![imagenGusto](https://github.com/PotatoLC/PotatoLC/assets/134663368/4c2fed4f-1323-4148-aa2b-cf93da6545ba)
