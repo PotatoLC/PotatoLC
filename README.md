@@ -4,7 +4,7 @@
 
 ## Jamming to the Beats and Karate Kicks! 🥋👊🏼🎧
 Passionate about music and a sports enthusiast, I have been dedicated to karate training for several years. Moreover, my love for technology 
-has led me to immerse myself in the world of programming. With experience in Java, C, and Python, and some knowledge of HTML and CSS, I have 
+has led me to immerse myself in the world of programming. With experience in Java, C, Bash and Python, and some knowledge of HTML and CSS, I have 
 found a way to unleash my creativity through software development.
 
 
