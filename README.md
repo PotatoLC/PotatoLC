@@ -9,7 +9,7 @@ found a way to unleash my creativity through software development.
 
 
 ## Coding, Creativity, and Tech Love 🖥️⌨️
-Furthermore, I feel very comfortable in the Linux environment, handling different distributions like Kali and Ubuntu, and I am deeply 
+Furthermore, I feel very comfortable in the Linux environment, handling different distributions like Kali \uf327, Parrot and Ubuntu, and I am deeply 
 passionate about the exciting world of cybersecurity. I am always on the lookout to learn new technologies and skills to excel in my field.
 
 
